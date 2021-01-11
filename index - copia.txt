@@ -1,0 +1,5 @@
+nombre:jhon erick palma
+programa:ingenieria de sistemas
+08 diciembre 2020
+telefono:3152807943
+correo:jhonerick721@hotmail.com
